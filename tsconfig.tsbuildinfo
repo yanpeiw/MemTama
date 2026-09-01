@@ -1,0 +1,1 @@
+{"root":["./src/vite-env.d.ts","./src/adapters/chatgpt.ts","./src/content/main.tsx","./src/engine/petengine.test.ts","./src/engine/petengine.ts","./src/overlay/overlay.tsx","./src/overlay/overlay.css.ts","./src/storage/storage.ts","./src/store/petstore.ts","./src/types/pet.ts","./manifest.config.ts","./vite.config.ts"],"version":"5.9.3"}
