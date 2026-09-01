@@ -1,6 +1,6 @@
 # AI Work Companion
 
-Chrome extension (Manifest V3) that overlays a pet on ChatGPT, growing from
+Chrome extension (Manifest V3 currently) that overlays a pet on ChatGPT, growing from
 the user's own message activity. See the project brief for full context and
 constraints — the short version: this only ever reads the user's own
 submitted input (char count + timestamp), never the assistant's responses.
